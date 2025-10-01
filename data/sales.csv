@@ -1,0 +1,21 @@
+date,product,category,region,sales_amount,quantity,customer_type
+2024-01-15,Laptop,Electronics,North,1299.99,1,Corporate
+2024-01-16,Office Chair,Furniture,South,249.99,2,Individual
+2024-01-17,Wireless Mouse,Electronics,East,29.99,5,Individual
+2024-01-18,Standing Desk,Furniture,West,599.99,1,Corporate
+2024-01-19,USB-C Cable,Electronics,North,19.99,10,Individual
+2024-01-20,Monitor,Electronics,South,349.99,2,Corporate
+2024-01-21,Desk Lamp,Furniture,East,79.99,3,Individual
+2024-01-22,Keyboard,Electronics,West,89.99,4,Corporate
+2024-01-23,Bookshelf,Furniture,North,159.99,1,Individual
+2024-01-24,Webcam,Electronics,South,129.99,2,Corporate
+2024-01-25,Ergonomic Chair,Furniture,East,399.99,1,Corporate
+2024-01-26,External SSD,Electronics,West,199.99,3,Individual
+2024-01-27,Filing Cabinet,Furniture,North,279.99,1,Corporate
+2024-01-28,Headphones,Electronics,South,149.99,4,Individual
+2024-01-29,Whiteboard,Furniture,East,89.99,2,Corporate
+2024-01-30,Tablet,Electronics,West,499.99,2,Individual
+2024-02-01,Conference Table,Furniture,North,899.99,1,Corporate
+2024-02-02,Printer,Electronics,South,299.99,1,Corporate
+2024-02-03,Desk Organizer,Furniture,East,34.99,5,Individual
+2024-02-04,Laptop Stand,Electronics,West,49.99,3,Individual
